@@ -43,8 +43,8 @@ npm install
 <p>The following environment variables need to be set:</p>
 
 <ul>
-  <li><code>OPENAI_API_KEY</code>: Your OpenAI API key.</li>
-  <li><code>OPENAI_ASSISTANT_ID</code>: Your OpenAI assistant ID.</li>
+  <li><code>DATE_DURATION</code>: Summary date duration.</li>
+  <li><code>PORT</code>: App port.</li>
   <li><code>WEATHER_API_KEY</code>: Your WeatherAPI API key.</li>
   <li><code>WEATHER_API_ENDPOINT</code>: The endpoint for WeatherAPI.</li>
 </ul>
