@@ -62,4 +62,4 @@ npm install
 
 <h2>API Limits</h2>
 
-<p>Please note that the WeatherAPI used in this project may have usage limits. The current implementation uses a 14-day trial version.</p>
+<p>Please note that the WeatherAPI (https://www.weatherapi.com/) used in this project may have usage limits. The current implementation uses a 14-day trial version.</p>
